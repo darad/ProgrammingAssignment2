@@ -1,4 +1,4 @@
-## Athor: DaraD
+## Author: DaraD
 
 ## Creates a special matrix with some methods and inverse attribute
 
